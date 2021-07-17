@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/todo-list-material-ui-pintuna/static/css/main.2474e473.chunk.css",
+    "main.js": "/todo-list-material-ui-pintuna/static/js/main.be8696f3.chunk.js",
+    "main.js.map": "/todo-list-material-ui-pintuna/static/js/main.be8696f3.chunk.js.map",
+    "runtime-main.js": "/todo-list-material-ui-pintuna/static/js/runtime-main.a4eeaed6.js",
+    "runtime-main.js.map": "/todo-list-material-ui-pintuna/static/js/runtime-main.a4eeaed6.js.map",
+    "static/js/2.591c68ef.chunk.js": "/todo-list-material-ui-pintuna/static/js/2.591c68ef.chunk.js",
+    "static/js/2.591c68ef.chunk.js.map": "/todo-list-material-ui-pintuna/static/js/2.591c68ef.chunk.js.map",
+    "index.html": "/todo-list-material-ui-pintuna/index.html",
+    "static/css/main.2474e473.chunk.css.map": "/todo-list-material-ui-pintuna/static/css/main.2474e473.chunk.css.map",
+    "static/js/2.591c68ef.chunk.js.LICENSE.txt": "/todo-list-material-ui-pintuna/static/js/2.591c68ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4eeaed6.js",
+    "static/js/2.591c68ef.chunk.js",
+    "static/css/main.2474e473.chunk.css",
+    "static/js/main.be8696f3.chunk.js"
+  ]
+}
